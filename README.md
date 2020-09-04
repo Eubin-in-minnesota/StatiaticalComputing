@@ -1,1 +1,1 @@
-# StatiaticalComputing
+# Statiatical Computing
